@@ -1,0 +1,9 @@
+{
+  "short_name": "Nexus Store",
+  "name": "Nexus Store — Enterprise Software",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#D97706",
+  "background_color": "#FAF7F2"
+}
